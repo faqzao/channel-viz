@@ -12,8 +12,8 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'wklWZH35cN8iD3RP59JhYPQXzZTjaiaqE9JznjR45Rv1u5Bc', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [765697], // Comma separated array of Xively Feed ID numbers
+	var defaultKey		= '1XH0YDZAROa50ojSJUOgSS5DGQPWK5IfKU17aKcZNz9XLYhA', // Unique master Xively API key to be used as a default
+		defaultFeeds	= [701860613], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Nexus Demo', // Replaces Xively logo in the header
 		dataDuration	= 'Xivel Demo with Nexus', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
